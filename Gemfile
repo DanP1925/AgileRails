@@ -54,3 +54,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'coffee-rails'
+
+gem 'dotenv-rails', :groups => [:development, :test]
